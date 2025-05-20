@@ -1,0 +1,10 @@
+requests
+aiohttp
+pypasser
+pyfiglet
+recaptchav3ninja
+httpx
+pyarmor
+jsonify
+httpagentparser
+fake-useragent
